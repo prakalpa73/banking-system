@@ -1,5 +1,5 @@
 # Banking-System
-<img width="200" alt="3" src="https://user-images.githubusercontent.com/30183912/35197075-aedf6938-ff00-11e7-8554-567cd7be1dcc.png">
+<img width="700" alt="3" src="https://user-images.githubusercontent.com/30183912/35197075-aedf6938-ff00-11e7-8554-567cd7be1dcc.png">
 <img width="200" alt="3" src="https://user-images.githubusercontent.com/30183912/35197448-3a5effce-ff05-11e7-89f1-e9e4f68cc4a0.png">
 <img width="200" alt="3" src="https://user-images.githubusercontent.com/30183912/35197449-3a93680e-ff05-11e7-98d0-78c35c119ebb.png">
 <img width="200" alt="3" src="https://user-images.githubusercontent.com/30183912/35197450-3ac31a40-ff05-11e7-85d5-28f5e91b8998.png">
